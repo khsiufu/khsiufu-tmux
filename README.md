@@ -1,4 +1,4 @@
-# k-tmux
+# khsiufu-tmux
 
 # Introduction
 
